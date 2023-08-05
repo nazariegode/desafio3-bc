@@ -1,0 +1,52 @@
+[
+    { 
+        "id": 1, 
+        "title": "Sushi Platano", 
+        "price": 10 
+    },
+    { 
+        "id": 2, 
+        "title": "Sushi Caribbean", 
+        "price": 20 
+    },
+    { 
+        "id": 3, 
+        "title": "Sushi Melon", 
+        "price": 10 
+    },
+    { 
+        "id": 4, 
+        "title": "Sushi Platano", 
+        "price": 20 
+    },
+    { 
+        "id": 5, 
+        "title": "Sushi Mango", 
+        "price": 10 
+    },
+    { 
+        "id": 6, 
+        "title": "Sushi Sol", 
+        "price": 20 
+    },
+    { 
+        "id": 7, 
+        "title": "Sushi Dulce", 
+        "price": 10 
+    },
+    { 
+        "id": 8, 
+        "title": "Sushimoto", 
+        "price": 20 
+    },
+    { 
+        "id": 9, 
+        "title": "Sushi Ají", 
+        "price": 10 
+    },
+    { 
+        "id": 10, 
+        "title": "Sushi Carne", 
+        "price": 20 
+    },
+  ];
